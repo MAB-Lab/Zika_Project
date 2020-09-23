@@ -1,6 +1,6 @@
 # Zika_Project
 
-This repository contains all code and utilities used in the publication: "Hunting unannotated human proteins to better understand Zika virus infection" by Leblanc S & Brunet MA.
+This repository contains all code and utilities used in the publication: "Modelling of pathogen-host systems using deeper ORF annotations and transcriptomics to inform proteomics analyses" by Leblanc S & Brunet MA.
 The manuscript presents a computational framework for identification of novel proteins and is based on the re-analysis of transcriptomics and proteomics datasets.
 
 <p align="center">
